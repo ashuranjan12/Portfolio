@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://ashuranjan12.github.io/Portfolio/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
